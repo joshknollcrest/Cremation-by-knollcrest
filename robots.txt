@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://joshknollcrest.github.io/Cremation-by-knollcrest/sitemap.xml

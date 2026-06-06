@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Cremation By Knollcrest</title>
+    <link href="https://joshknollcrest.github.io/Cremation-by-knollcrest/feed.xml" rel="self" />
+    <link href="https://joshknollcrest.github.io/Cremation-by-knollcrest" />
+    <updated>1969-12-31T18:00:00-06:00</updated>
+    <author>
+        <name>Joshua Van Staalduinen</name>
+    </author>
+    <id>https://joshknollcrest.github.io/Cremation-by-knollcrest</id>
+
+</feed>
